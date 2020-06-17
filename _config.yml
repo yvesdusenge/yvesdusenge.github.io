@@ -8,7 +8,7 @@ url: "https://yvesdusenge.github.io"
 markdown: kramdown
 permalink: pretty
 highlighter: pygments
-paginate: 3
+paginate: 2
 
 # Links
 links:
