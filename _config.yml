@@ -12,9 +12,9 @@ paginate: 3
 
 # Links
 links:
-  - title: "abt"
+  - title: "about"
     url: /about
-  - title: "twt"
+  - title: "twitter"
     url: http://twitter.com/yvesdusenge
   - title: "git"
     url: http://github.com/yvesdusenge
