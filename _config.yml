@@ -1,6 +1,6 @@
 # Site settings
 title: "Yves Theory"
-description: "A peak into Yves's thoughtsa and projects."
+description: "A peak into Yves's thoughts and projects."
 baseurl: ""
 url: "https://yvesdusenge.github.io"
 
@@ -15,8 +15,8 @@ links:
   - title: "abt"
     url: /about
   - title: "twt"
-    url: http://twitter.com/alixedi
+    url: http://twitter.com/yvesdusenge
   - title: "git"
-    url: http://github.com/alixedi
+    url: http://github.com/yvesdusenge
   - title: "rss"
     url: /feed.xml
