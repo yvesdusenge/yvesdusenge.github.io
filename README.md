@@ -1,45 +1,12 @@
-# jekyll-uno
+# Cover-card jekyll theme
 
-Jekyll-Uno - a minimal, responsive theme for Jekyll based on the [Uno](https://github.com/daleanthony/Uno) theme for Ghost.
+The aim of this theme is to remain simple and updated. As Antoine de Saint-Exupery said:
 
-> :warning:
-  This theme requires ruby and rubygems installed
+> Perfection is achieved, not when there is nothing more to add, but when there is nothing left to take away.
 
-### Features
+## Contributing
 
-* Clean layout
-* Resposive layout
-* Pagination
-* Syntax highlighting
-* Social links
-* Tags listing page
-* Categories listing page
-* Google Analytics integration
-* Disqus integration
+Fork this repository and submit a pull-request for a bug or an improvement at the **master branch**.
 
----
-
-### Install and Test
-
-1. Download or clone repo `git clone git@github.com:joshgerdes/jekyll-uno.git`
-2. Enter the folder: `cd jekyll-uno/`
-3. If you don't have bundler installed: `gem install bundler`
-3. Install Ruby gems: `bundle install`
-4. Start Jekyll server: `bundle exec jekyll serve --watch`
-
-Access via: [http://localhost:4000/jekyll-uno/](http://localhost:4000/jekyll-uno/)
-
----
-
-### Demo and Download
-
-[Demo](http://joshgerdes.com/jekyll-uno/)
-[Download](https://github.com/joshgerdes/jekyll-uno/archive/master.zip)
-
-![jekyll-uno - free Jekyll theme](/screenshot.png)
-
----
-
-### Copyright and license
-
-It is under [the MIT license](/LICENSE).
+## Credits
+This gem-based theme is a modification of the original [front cover](https://dashingcode.github.io/front-cover/)
