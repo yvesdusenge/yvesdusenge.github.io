@@ -1,88 +1,22 @@
 # Site settings
-title: "MADness"
-description: A Template for Jekyll
-
-# Files
-baseurl:
-pagesdir: pages
-assets:
-  libs: assets/libs
-  owner: assets/owner
-logo: logo.png
-discus_shortname:
-email: dusengeyves@gmail.com
-url: "https://yvesdusenge.github.io/"
-search: true
-share: true
-comments: true
-
-# Read Time is a calculator tp provide post read-time based on word count. Usage is recommended.
-readtime: true
-
-# Specify the average Words per minute. If not defined, 180 will be used
-wpm: 200
-
-# Owner/author information
-owner:
-  name:   MADness
-  avatar: avatar.jpg
-  # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
-  description:    MAD for Jekyll
-
-# Social networking links used in footer. Update and remove as you like.
-twitter_username:
-facebook_username:
-github_username: yvesdusenge
-deviantart_username:
-500px_username:
-flickr_username:
-instagram_username:
-
-
-# Internal nav
-nav:
- writing: "root_url/writing/"
- gallery: "root_url/gallery/"
- about: "root_url/about/"
-
-
-# Server
-destination:      	 ./_site
-port:             	 4000
-
-
-#dependencies
-# Gems
-gems:
-  - jekyll-paginate
-
+title: "Typewriter"
+description: "So I was feeling nostalgic."
+baseurl: ""
+url: "https://yvesdusenge.github.io"
 
 # Build settings
-highlighter:         rouge
-markdown:           kramdown
-kramdown:
-    extensions:
-     - Hard_wrap
-     - no_intra_emphasis
-     - strikethrough
-     - fenced_code_blocks
-     - autolink
-     - tables
-     - with_toc_data
-     - highlight
-     - footnotes
-    input:          GFM
-sass:
-    style:          :compressed
-paginate: 5
-paginate_path: "/writing/page:num/"
-permalink: "/writing/:title/"
-exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
-slugify: "pretty"
+markdown: kramdown
+permalink: pretty
+highlighter: pygments
+paginate: 3
 
-
-# Analytics and webmaster tools stuff goes here
-google_analytics:   UA-xxxxxxxx-x
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+# Links
+links:
+  - title: "abt"
+    url: /about
+  - title: "twt"
+    url: http://twitter.com/alixedi
+  - title: "git"
+    url: http://github.com/alixedi
+  - title: "rss"
+    url: /feed.xml
