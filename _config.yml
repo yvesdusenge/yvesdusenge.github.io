@@ -9,8 +9,8 @@ assets:
   libs: assets/libs
   owner: assets/owner
 logo: logo.png
-discus_shortname: MADness
-email: mad@ness.com
+discus_shortname:
+email: dusengeyves@gmail.com
 url: "https://yvesdusenge.github.io/"
 search: true
 share: true
@@ -30,13 +30,13 @@ owner:
   description:    MAD for Jekyll
 
 # Social networking links used in footer. Update and remove as you like.
-twitter_username: MAD4Jekyll
-facebook_username: MAD4Jekyll
-github_username: MAD4Jekyll
-deviantart_username: MAD4Jekyll
-500px_username: MAD4Jekyll
-flickr_username: MAD4Jekyll
-instagram_username: MAD4Jekyll
+twitter_username:
+facebook_username:
+github_username:
+deviantart_username:
+500px_username:
+flickr_username:
+instagram_username: 
 
 
 # Internal nav
